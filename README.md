@@ -35,3 +35,15 @@ I'm an aspiring Software Engineer interested in **Python**, **backend logic**, a
 
 ### 📫 How to Reach Me
 - **GitHub:** [@Bungong](https://github.com/Bungong)
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bungong&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  
+  <br /><br />
+
+  <!-- Contribution Streak Counter -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bungong&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
