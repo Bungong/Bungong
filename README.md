@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Bungong 👋
 
-<!--
-**Bungong/Bungong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Software Engineer interested in **Python**, **backend logic**, and open-source development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently working on: Backend web development and open-source contributions.
+- 🌱 I’m learning: Python, FastAPI, REST APIs, and Git best practices.
+- 💬 Ask me about: Getting started with open source on GitHub!
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, Markdown, HTML/CSS
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📈 Open Source Activity
+<!-- This automatically tracks your contributions on GitHub -->
+![Bungong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bungong&show_icons=true&theme=radial)
+
+---
+
+### 📫 How to Reach Me
+- **GitHub:** [@Bungong](https://github.com/Bungong)
